@@ -16,3 +16,10 @@ The Instacart analysis was organised into the following structure:
 * 03 Scripts: This folder will contains the Python scripts created to perform the analysis process.
 * 04 Analysis/Visualisations: This folder contains the output results produced throughout the analysis.
 * 05 Sent to client: This folder will contain all the final deliverables for the client presented in an Excel spreadsheet.
+## Tools
+Made using Python in Jupyter using the following libraries:
+* MatPlotLib
+* NumPy
+* Pandas
+* Seaborn
+* SciPy
