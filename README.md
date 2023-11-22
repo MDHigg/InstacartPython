@@ -1,5 +1,5 @@
 # Instacart (Python Project)
-Instacart is an online grocery store that operates via a mobile app. They have good sales, but want to uncover more information about their sales patterns.
+Instacart is an online grocery store that operates via an app. They have good sales, but want to uncover more information about their sales patterns.
 ## Objective
 To perform initial data and exploratory analysis of their provided data in order to derive insights and suggest strategies for better segmentation based on the provided criteria. The idea is to learn about a variety of customers at Instacart and their purchasing behaviours to provide recommendations a targeted marketing strategy the VPs for Marketing and Sales.
 ## Data
