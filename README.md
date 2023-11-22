@@ -14,5 +14,5 @@ The Instacart analysis was organised into the following structure:
 * 01 Project Management: This folder contains the Project Brief.
 * 02 Data: This folder contains the two subfolders *Original Data*, for storing the raw data sets provided by Instacart, and *Prepared Data*, for storing manipulated data sets. \[Note that this file has not been included.\]
 * 03 Scripts: This folder will contains the Python scripts created to perform the analysis process.
-* 04 Analysis: This folder contains the output results produced throughout the analysis.
+* 04 Analysis/Visualisations: This folder contains the output results produced throughout the analysis.
 * 05 Sent to client: This folder will contain all the final deliverables for the client presented in an Excel spreadsheet.
